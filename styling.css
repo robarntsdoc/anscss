@@ -1,0 +1,27 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: green;
+}
+
+
+
+.my-card
+{
+    position:absolute;
+    left:40%;
+    top:-20px;
+    border-radius:50%;
+    background-color:red!imp;
+}
+
+.card 
+{
+   
+    background-color:#eee!important;
+
+}
