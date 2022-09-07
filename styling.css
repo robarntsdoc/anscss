@@ -9,6 +9,6 @@
 
 /* CUSTOM CODE AFWIJKEND VAN DE BOVENSTAANDE BOOTSTRAP KLASSES */
 
-.alert alert-info {
+.alert.alert-info {
   background-color: red !important;
 }
