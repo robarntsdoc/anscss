@@ -13,10 +13,6 @@
   background-color: #EEE !important;
 }
 
-  body {
-  margin: 2em;
-}
-
 .speech-bubble {
   border-radius: .4em;
   background: #2F8ED2;
@@ -59,5 +55,36 @@ line-height: 1.5em;
              width: 0;
              height: 0;
 }
+
+.speech-bubble {
+  border-radius: .4em;
+  background: #2F8ED2;
+  color: WHITE;
+  display: inline-block;
+
+line-height: 1.5em;
+  margin-bottom: 0em;
+             padding: 1.5em;
+             position: relative;
+             text-align: left;
+             vertical-align: top;
+                           min-width: 7em;
+  width: 100%;
+}
+.speech-bubble:after {
+             border: 1em solid transparent;
+             border-top-color: #2F8ED2;
+             content: '';
+             margin-left: -1em;
+             position: absolute;
+                           top: 100%;
+                           left: 10%;
+             width: 0;
+             height: 0;
+}
+
+  .blue {
+      background: #2F8ED2;
+  }
 
   
