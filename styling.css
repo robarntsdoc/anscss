@@ -25,8 +25,8 @@ line-height: 1.5em;
              position: relative;
              text-align: left;
              vertical-align: top;
-                           min-width: 7em;
-  width: 100%;
+             min-width: 7em;
+            width: 100%;
 }
 .speech-bubble:after {
              border: 1em solid transparent;
@@ -107,6 +107,7 @@ line-height: 1.5em;
   color: #2f8ed2;
 }
 
+.btn-primary {border-style: none !important;}
 
 
 
