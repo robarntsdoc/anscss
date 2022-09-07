@@ -87,4 +87,27 @@ line-height: 1.5em;
       background: #2F8ED2;
   }
 
+    .hr-droid {
+  display: flex;
+      color: yellow;
+}
+  
+   
+  .hr-line{
+  width: 100%;
+  position: relative;
+  margin: 15px;
+  border-bottom: 2px solid #2f8ed2;
+    color: yellow;
+}
+  
+  .fa {
+  position: relative;
+  top: 3px;
+  color: #2f8ed2;
+}
+
+
+
+
   
