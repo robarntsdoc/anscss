@@ -141,27 +141,22 @@ line-height: 1.5em;
 .card {border-style: none !important;}
 .btn-primary:hover { background: #B2C5CC !important;}
 
-
-    .hr-droid-greyblue {
-  display: flex;
-      background-color: #B1C5CC ;
-}
-  
+ 
    
   .hr-line-greyblue {
   width: 100%;
   position: relative;
   margin: 15px;
-  border-bottom: 2px solid #2f8ed2;
+  border-bottom: 2px solid #B1C5CC;
     background-color: #B1C5CC;
 }
 
-  .hr-line-greyblue {
+  .hr-line-blue {
   width: 100%;
   position: relative;
   margin: 15px;
   border-bottom: 2px solid #2f8ed2;
-    background-color: #B1C5CC;
+    background-color: #2F8ED2;
 }
 
   
