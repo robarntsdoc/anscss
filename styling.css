@@ -106,6 +106,18 @@ line-height: 1.5em;
       background: #B1C5CC;
   }
 
+  .greyblue:after {
+             border: 1em b2c5cct;
+             border-top-color: #B1C5CC !important;
+             content: '';
+             margin-left: -1em;
+             position: absolute;
+             top: 100%;
+             left: 10%;
+             width: 0;
+             height: 0;
+}
+
 
 
     .hr-droid {
