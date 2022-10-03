@@ -122,8 +122,7 @@ line-height: 1.5em;
 
     .hr-droid {
   display: flex;
-      color: yellow;
-}
+     }
   
    
   .hr-line{
@@ -131,7 +130,6 @@ line-height: 1.5em;
   position: relative;
   margin: 15px;
   border-bottom: 2px solid #2f8ed2;
-    color: yellow;
 }
   
   .fa {
