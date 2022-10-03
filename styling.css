@@ -151,7 +151,11 @@ line-height: 1.5em;
     background-color: #B1C5CC;
 }
 
-  .hr-line-blue {
+.icon-greyblue {color: #B1C5CC !important;}
+.icon-blue {color: #2F8ED2 !important;}
+.icon-blue {color: #A4BEAB !important;}
+
+.hr-line-blue {
   width: 100%;
   position: relative;
   margin: 15px;
