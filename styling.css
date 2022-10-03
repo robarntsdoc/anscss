@@ -173,5 +173,5 @@ line-height: 1.5em;
 
 .btn:visited {background-color: #B3B3B3 !important;}
 .btn:active {background-color: #B3B3B3 !important;}
-.btn:selected {border-color: #B3B3B3 !important;}
+.btn:selected {border-color: #B3B3B3 !important; }
   
