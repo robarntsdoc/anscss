@@ -46,7 +46,7 @@ line-height: 1.5em;
 
   .lightgreen:after {
              border: 1em b2c5cct;
-             border-top-color: #b2c5cc !important;
+             border-top-color: #A4BEAB !important;
              content: '';
              margin-left: -1em;
              position: absolute;
@@ -54,7 +54,6 @@ line-height: 1.5em;
              left: 10%;
              width: 0;
              height: 0;
-              background: #A4BEAB !important;
 }
 
 .speech-bubble {
