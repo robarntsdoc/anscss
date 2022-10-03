@@ -151,10 +151,6 @@ line-height: 1.5em;
     background-color: #B1C5CC;
 }
 
-.icon-greyblue {color: #B1C5CC !important;}
-.icon-blue {color: #2F8ED2 !important;}
-.icon-lightgreen  {color: #A4BEAB !important;}
-
 .hr-line-blue {
   width: 100%;
   position: relative;
@@ -162,5 +158,17 @@ line-height: 1.5em;
   border-bottom: 2px solid #2f8ed2;
     background-color: #2F8ED2;
 }
+
+.hr-line-lightgreen {
+  width: 100%;
+  position: relative;
+  margin: 15px;
+  border-bottom: 2px solid #2f8ed2;
+    background-color: #A4BEAB;
+}
+
+.icon-greyblue {color: #B1C5CC !important;}
+.icon-blue {color: #2F8ED2 !important;}
+.icon-lightgreen  {color: #A4BEAB !important;}
 
   
