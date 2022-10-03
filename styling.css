@@ -50,10 +50,11 @@ line-height: 1.5em;
              content: '';
              margin-left: -1em;
              position: absolute;
-                           top: 100%;
-                           left: 10%;
+             top: 100%;
+             left: 10%;
              width: 0;
              height: 0;
+              background: #A4BEAB !important;
 }
 
 .speech-bubble {
