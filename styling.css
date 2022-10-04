@@ -109,15 +109,15 @@ line-height: 1.5em;
 
 
   .btn-blue {
-      color: #2F8ED2 !important;
+      background: #2F8ED2 !important;
   }
 
   .btn-greyblue {
-      color: #B1C5CC !important;
+      background: #B1C5CC !important;
   }
 
   .btn-lightgreen {
-      color: #A4BEAB !important;
+      background: #A4BEAB !important;
   }
 
 
