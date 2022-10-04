@@ -40,10 +40,6 @@ line-height: 1.5em;
              height: 0;
 }
 
-  .lightgreen {
-      background: #A4BEAB !important;
-  }
-
   .lightgreen:after {
              border: 1em b2c5cct;
              border-top-color: #A4BEAB !important;
@@ -99,12 +95,36 @@ line-height: 1.5em;
 }
 
   .blue {
-      background: #2F8ED2;
+      background: #2F8ED2 !important;
   }
 
-.greyblue {
-      background: #B1C5CC;
+  .greyblue {
+      background: #B1C5CC !important;
   }
+
+  .lightgreen {
+      background: #A4BEAB !important;
+  }
+
+
+
+  .btn-blue {
+      color: #2F8ED2 !important;
+  }
+
+  .btn-greyblue {
+      color: #B1C5CC !important;
+  }
+
+  .btn-lightgreen {
+      color: #A4BEAB !important;
+  }
+
+
+
+
+
+
 
   .greyblue:after {
              border: 1em b2c5cct;
