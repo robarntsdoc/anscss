@@ -108,26 +108,9 @@ line-height: 1.5em;
 
 
 
-  .btn-blue {
-      background: #2F8ED2 !important;
-      background-color: #2F8ED2 !important;
-  }
-
-  .btn-greyblue {
-      background: #B1C5CC !important;
-      background-color: #B1C5CC !important;
-  }
-
-  .btn-lightgreen {
-      background: #A4BEAB !important;
-      background-color: #A4BEAB !important;
-  }
-
-
-
-
-
-
+  .btn-blue {background-color: #2F8ED2 !important;}
+  .btn-greyblue {background-color: #B1C5CC !important;}
+  .btn-lightgreen {background-color: #A4BEAB !important;}
 
   .greyblue:after {
              border: 1em b2c5cct;
