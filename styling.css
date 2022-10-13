@@ -108,9 +108,7 @@ line-height: 1.5em;
 
 
 
-  .btn-blue {background-color: #2F8ED2 !important;}
-  .btn-greyblue {background-color: #B1C5CC !important;}
-  .btn-lightgreen {background-color: #A4BEAB !important;}
+ 
 
   .greyblue:after {
              border: 1em b2c5cct;
@@ -143,9 +141,9 @@ line-height: 1.5em;
   top: 3px;
 }
 
-.btn-primary {border-style: none !important;}
+
 .card {border-style: none !important;}
-.btn-primary:hover { background: #B2C5CC !important;}
+
 
  
    
@@ -177,9 +175,30 @@ line-height: 1.5em;
 .icon-blue {color: #2F8ED2 !important;}
 .icon-lightgreen  {color: #A4BEAB !important;}
 
-.btn:visited {background-color: #B3B3B3 !important;}
-.btn:active {background-color: #B3B3B3 !important;}
-.btn:selected {border-color: #B3B3B3 !important; }
+ .btn-blue {background-color: #2F8ED2 !important;}
+ .btn-greyblue {background-color: #B1C5CC !important;}
+ .btn-lightgreen {background-color: #A4BEAB !important;}
+
+.btn-gitp {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
 
 
 
