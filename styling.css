@@ -201,6 +201,7 @@ line-height: 1.5em;
 
 .btn-gitp:hover {
   text-decoration: none !important;
+  background-color: #eee !important; 
 }
 
 
