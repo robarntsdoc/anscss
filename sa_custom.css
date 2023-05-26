@@ -11,7 +11,7 @@ element.style {
   position: relative;
   padding: 1rem 1rem;
   margin-bottom: 1rem;
-  border: 1px solid transparent;
+  border: 1px solid;
   border-radius: .25rem;
 }
 
