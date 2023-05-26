@@ -7,6 +7,12 @@ element.style {
   border-color: #badbcc;
 }
 
+
+.alert alert-info {
+background-color:#ffffff; border-color:grey; border-style:dotted; border-width:1px;
+
+}
+
 .alert {
   position: relative;
   padding: 1rem 1rem;
